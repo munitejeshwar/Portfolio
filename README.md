@@ -49,7 +49,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 Index.html
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,9 +84,9 @@ Index.html
     </footer>
 </body>
 </html>
-'''
+```
 style.css:
-'''
+```
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -123,7 +123,7 @@ section {
     font-weight: bold;
 }
 
-'''
+```
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/6e65ac82-915d-4ca6-b4da-cd2821707eee)
 
