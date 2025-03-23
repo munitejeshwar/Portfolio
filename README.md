@@ -48,7 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-Index.html
+##Index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -85,7 +85,7 @@ Index.html
 </body>
 </html>
 ```
-style.css:
+##style.css:
 ```
 body {
     font-family: Arial, sans-serif;
